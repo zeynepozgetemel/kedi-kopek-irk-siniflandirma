@@ -1,0 +1,128 @@
+[
+  {
+    "image": "IMG_6621",
+    "condition": "İdeal: yüz net, yakın",
+    "truth": "british_shorthair",
+    "top3": [
+      [
+        "british_shorthair",
+        0.9450620412826538
+      ],
+      [
+        "persian",
+        0.004974492359906435
+      ],
+      [
+        "abyssinian",
+        0.004735419526696205
+      ]
+    ],
+    "correct": true,
+    "true_class_prob": 0.9450620412826538
+  },
+  {
+    "image": "IMG_0676",
+    "condition": "Çok yakın, el yüzde",
+    "truth": "british_shorthair",
+    "top3": [
+      [
+        "british_shorthair",
+        0.3145800530910492
+      ],
+      [
+        "persian",
+        0.1608714908361435
+      ],
+      [
+        "russian_blue",
+        0.160232275724411
+      ]
+    ],
+    "correct": true,
+    "true_class_prob": 0.3145800530910492
+  },
+  {
+    "image": "IMG_0987",
+    "condition": "Yandan/arkadan, uzak",
+    "truth": "british_shorthair",
+    "top3": [
+      [
+        "british_shorthair",
+        0.4064112603664398
+      ],
+      [
+        "russian_blue",
+        0.05820762738585472
+      ],
+      [
+        "sphynx",
+        0.05221911147236824
+      ]
+    ],
+    "correct": true,
+    "true_class_prob": 0.4064112603664398
+  },
+  {
+    "image": "IMG_0984",
+    "condition": "Yukarıdan, yüz görünmüyor",
+    "truth": "british_shorthair",
+    "top3": [
+      [
+        "russian_blue",
+        0.210885152220726
+      ],
+      [
+        "british_shorthair",
+        0.09558626264333725
+      ],
+      [
+        "newfoundland",
+        0.06148209050297737
+      ]
+    ],
+    "correct": false,
+    "true_class_prob": 0.09558626264333725
+  },
+  {
+    "image": "IMG_7152",
+    "condition": "İdeal: oturuyor, tam boy",
+    "truth": "persian",
+    "top3": [
+      [
+        "persian",
+        0.4524771571159363
+      ],
+      [
+        "ragdoll",
+        0.12959592044353485
+      ],
+      [
+        "pug",
+        0.045805495232343674
+      ]
+    ],
+    "correct": true,
+    "true_class_prob": 0.4524771571159363
+  },
+  {
+    "image": "IMG_0153",
+    "condition": "Kucakta, alttan, kol önünde",
+    "truth": "persian",
+    "top3": [
+      [
+        "persian",
+        0.6961800456047058
+      ],
+      [
+        "sphynx",
+        0.06189439818263054
+      ],
+      [
+        "ragdoll",
+        0.022825628519058228
+      ]
+    ],
+    "correct": true,
+    "true_class_prob": 0.6961800456047058
+  }
+]

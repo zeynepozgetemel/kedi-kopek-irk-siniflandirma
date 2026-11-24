@@ -1,0 +1,102 @@
+[
+  {
+    "image": "my_photos/IMG_6621.jpg",
+    "truth": "british_shorthair",
+    "top3": [
+      [
+        "british_shorthair",
+        0.9450620412826538
+      ],
+      [
+        "persian",
+        0.004974492359906435
+      ],
+      [
+        "abyssinian",
+        0.004735419526696205
+      ]
+    ],
+    "correct": true,
+    "ms": 178.34444200002508
+  },
+  {
+    "image": "my_photos/IMG_7152.jpg",
+    "truth": "persian",
+    "top3": [
+      [
+        "persian",
+        0.4524771571159363
+      ],
+      [
+        "ragdoll",
+        0.12959592044353485
+      ],
+      [
+        "pug",
+        0.045805495232343674
+      ]
+    ],
+    "correct": true,
+    "ms": 63.44380699999874
+  },
+  {
+    "image": "my_photos/IMG_2152.jpg",
+    "truth": "sokak kedisi (karisik)",
+    "top3": [
+      [
+        "shiba_inu",
+        0.3562171161174774
+      ],
+      [
+        "maine_coon",
+        0.13610544800758362
+      ],
+      [
+        "bengal",
+        0.12122032046318054
+      ]
+    ],
+    "correct": null,
+    "ms": 65.79828600001747
+  },
+  {
+    "image": "my_photos/IMG_6644.jpg",
+    "truth": "sokak kedisi (karisik)",
+    "top3": [
+      [
+        "bengal",
+        0.33911222219467163
+      ],
+      [
+        "abyssinian",
+        0.19959025084972382
+      ],
+      [
+        "boxer",
+        0.06035077944397926
+      ]
+    ],
+    "correct": null,
+    "ms": 73.57639400004246
+  },
+  {
+    "image": "my_photos/IMG_3050.jpg",
+    "truth": "siluet - belirsiz",
+    "top3": [
+      [
+        "german_shorthaired",
+        0.20732195675373077
+      ],
+      [
+        "british_shorthair",
+        0.14072401821613312
+      ],
+      [
+        "bengal",
+        0.10489146411418915
+      ]
+    ],
+    "correct": null,
+    "ms": 63.510547999953815
+  }
+]
